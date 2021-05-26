@@ -1,0 +1,1360 @@
+#container {
+	background-color: #D2B28B;
+	width: 1200px;
+	position: relative;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#banner {
+	height: 150px;
+	width: 1200px;
+	text-align: center;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.htextbox1 {
+	float: left;
+	height: 300px;
+	width: 750px;
+	margin-left: 225px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-bottom: 35px;
+	margin-right: auto;
+	margin-top: 15px;
+	background-color: #E67564;
+}
+.htextbox1 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: auto;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #020202;
+	text-shadow: 0px 0;
+	font-weight: normal;
+	width: 450px;
+	margin-left: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-right: auto;
+	padding-top: 10px;
+	font-style: italic;
+	letter-spacing: 2px;
+}
+.htextbox1 p {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	position: relative;
+	float: left;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	color: #000000;
+	margin-top: auto;
+	font-weight: normal;
+}
+
+#wtitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-wingsV4.jpg);
+}
+
+.wimage-holder1 {
+	height: 450px;
+	width: 600px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	float: left;
+	margin-right: auto;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	margin-bottom: auto;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	background-image: url(../assets/background_wings.jpg);
+}
+.wimage-holder1 img {
+	padding-top: 55px;
+	text-shadow: 0px 0px 0px;
+	padding-left: 13px;
+}
+.wtextbox1 {
+	background-color: #541B25;
+	float: left;
+	height: 450px;
+	width: 450px;
+	margin-top: 35px;
+	margin-left: 45px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-right: auto;
+}
+.wtextbox1 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: 0 0px;
+	box-shadow: 0 0px;
+	border-radius: 10px;
+	color: #FCFBFC;
+	text-shadow: 0px 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 110px;
+	margin-right: auto;
+	float: left;
+	padding-left: 4px;
+}
+.wtextbox1 ul  {
+	position: relative;
+	float: left;
+	margin-left: 42px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 33px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	margin-top: auto;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-left: 41px;
+	padding-right: 20px;
+	list-style-image: url(../assets/bulletV6.png);
+}
+.wtextbox2 {
+	background-color: #541B25;
+	float: left;
+	height: 475px;
+	width: 800px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-bottom: 35px;
+	margin-right: auto;
+}
+
+.wtextbox2 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #F4F4F4;
+	text-shadow: 0px 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 275px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	margin-right: auto;
+}
+.wtextbox2 ul  {
+	position: relative;
+	float: left;
+	margin-left: 21px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 35px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	padding-bottom: 20px;
+	padding-left: 41px;
+	padding-right: 20px;
+	margin-bottom: auto;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-top: auto;
+}
+.wtextbox2 p2 {
+	position: relative;
+	margin-right: 20px;
+	margin-bottom: 35px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #EC9588;
+	margin-left: 225px;
+	margin-top: auto;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.wcolored-box {
+    background-color: #E67564;
+    float: left;
+    height: 475px;
+    width: 225px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    padding-right: 20px;
+    margin-top: 35px;
+}
+.wcolored-box img {
+	padding-left: 25px;
+	padding-top: 75px;
+}
+
+#btitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-blt_snacks.jpg);
+}
+
+.btextbox1 {
+	background-color: #541B25;
+	float: left;
+	height: 400px;
+	width: 450px;
+	margin-top: 35px;
+	margin-left: 45px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-right: auto;
+}
+.btextbox1 h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    -webkit-box-shadow: inset 0 0px;
+    box-shadow: inset 0 0px;
+    border-radius: 10px;
+    color: #FCFBFC;
+    text-shadow: 0px 0;
+    font-style: italic;
+    letter-spacing: 3px;
+    width: 220px;
+    margin-left: 110px;
+    margin-right: auto;
+    float: left;
+    padding-left: 4px;
+    font-weight: normal;
+}
+.btextbox1 ul  {
+	position: relative;
+	float: left;
+	margin-left: 42px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 33px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	margin-top: auto;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-bottom: auto;
+}
+.bimage-holder1 {
+	height: 400px;
+	width: 625px;
+	margin-top: 35px;
+	margin-left: 35px;
+	position: relative;
+	float: left;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-right: 45px;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	padding-right: 0px;
+	background-image: url(../assets/background_blt-snacks.jpg);
+}
+.bimage-holder1 img {
+	padding-top: 25px;
+	height: auto;
+	padding-left: 12px;
+}
+.bcolored-box {
+	background-color: #E67564;
+	float: left;
+	height: 425px;
+	width: 385px;
+	margin-top: 35px;
+	margin-right: 35px;
+	margin-bottom: 35px;
+	margin-left: 35px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+}
+.bcolored-box img {
+	padding-left: 45px;
+}
+.btextbox2 {
+	background-color: #541B25;
+	float: left;
+	height: 425px;
+	width: 690px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-bottom: 35px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 10px;
+	margin-top: 35px;
+}
+
+.btextbox2 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #F4F4F4;
+	text-shadow: 0px 0 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 217px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	margin-right: auto;
+}
+.btextbox2 ul  {
+	position: relative;
+	float: left;
+	margin-left: 15px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 35px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	padding-bottom: 5px;
+	padding-left: 41px;
+	padding-right: 20px;
+	margin-bottom: auto;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-top: auto;
+}
+.btextbox2 p2 {
+	position: relative;
+	margin-right: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #E67564;
+	margin-left: 286px;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top: auto;
+}
+#atitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-almonds.jpg);
+}
+
+.atextbox1 {
+    background-color: #541B25;
+    float: left;
+    height: 400px;
+    width: 350px;
+    margin-top: 35px;
+    margin-left: 40px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    margin-right: auto;
+}
+.atextbox1 h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    -webkit-box-shadow: 0 0px;
+    box-shadow: 0 0px;
+    border-radius: 10px;
+    color: #FCFBFC;
+    text-shadow: 0px 0px;
+    font-style: italic;
+    letter-spacing: 3px;
+    width: 220px;
+    margin-right: auto;
+    float: left;
+    padding-left: 4px;
+    margin-left: 60px;
+    font-weight: normal;
+}
+.atextbox1 ul  {
+    position: relative;
+    float: left;
+    margin-left: 25px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 33px;
+    list-style-position: outside;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 15px;
+    list-style-image: url(../assets/bulletV6.png);
+    margin-top: auto;
+}
+.aimage-holder1 {
+    height: 400px;
+    width: 350px;
+    margin-top: 35px;
+    margin-left: 35px;
+    position: relative;
+    float: left;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    margin-right: 35px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    padding-right: 0px;
+    background-image: url(../assets/background_blt-snacks.jpg);
+    margin-bottom: 35px;
+}
+.aimage-holder1 img {
+    padding-top: 40px;
+    height: auto;
+    padding-left: 12px;
+}
+.atextbox2 {
+    background-color: #541B25;
+    float: left;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    margin-bottom: 35px;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-left: auto;
+}
+
+.atextbox2 h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    margin-top: 10px;
+    -webkit-box-shadow: 0 0;
+    box-shadow: 0 0;
+    border-radius: 10px;
+    color: #F4F4F4;
+    text-shadow: 0px 0 0;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: 3px;
+    width: 220px;
+    margin-left: 60px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.atextbox2 ul  {
+    position: relative;
+    float: left;
+    margin-left: 0px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 35px;
+    list-style-position: outside;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+    padding-left: 41px;
+    padding-right: 20px;
+    margin-bottom: auto;
+    list-style-image: url(../assets/bulletV6.png);
+    margin-top: auto;
+}
+.atextbox2 p2 {
+	position: relative;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #E67564;
+	margin-left: 87px;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top: auto;
+}
+.acolored-box {
+	background-color: #E67564;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-top: auto;
+	margin-bottom: 35px;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+}
+.acolored-box img {
+	padding-left: 60px;
+	padding-top: 5px;
+}
+#ttitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-tortilla_bites.jpg);
+}
+
+.timage-holder1 {
+	height: 450px;
+	width: 600px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	float: left;
+	margin-right: auto;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	margin-bottom: auto;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	background-image: url(../assets/background_wings.jpg);
+}
+.timage-holder1 img {
+	text-shadow: 0px 0px 0px;
+	padding-left: 100px;
+	padding-top: 25px;
+}
+.ttextbox1 {
+	background-color: #541B25;
+	float: left;
+	height: 450px;
+	width: 450px;
+	margin-top: 35px;
+	margin-left: 45px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-right: auto;
+}
+.ttextbox1 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: 0 0px;
+	box-shadow: 0 0px;
+	border-radius: 10px;
+	color: #FCFBFC;
+	text-shadow: 0px 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 110px;
+	margin-right: auto;
+	float: left;
+}
+.ttextbox1 ul  {
+    position: relative;
+    float: left;
+    margin-left: 42px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 40px;
+    list-style-position: outside;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #FFFFFF;
+    margin-top: auto;
+    padding-bottom: 20px;
+    padding-top: 35px;
+    padding-left: 41px;
+    padding-right: 50px;
+    list-style-image: url(../assets/bulletV6.png);
+}
+.ttextbox2 {
+	background-color: #541B25;
+	float: left;
+	height: 475px;
+	width: 800px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-bottom: 35px;
+	margin-right: auto;
+}
+
+.ttextbox2 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #F4F4F4;
+	text-shadow: 0px 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 300px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	margin-right: auto;
+}
+.ttextbox2 ul  {
+	position: relative;
+	float: left;
+	margin-left: 10px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 35px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	padding-bottom: 20px;
+	padding-left: 41px;
+	padding-right: 20px;
+	margin-bottom: auto;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-top: auto;
+}
+.ttextbox2 p2 {
+	position: relative;
+	margin-right: 20px;
+	margin-bottom: 35px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #EC9588;
+	margin-left: 350px;
+	margin-top: auto;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.tcolored-box {
+    background-color: #E67564;
+    float: left;
+    height: 475px;
+    width: 225px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    padding-right: 20px;
+    margin-top: 35px;
+}
+.tcolored-box img {
+	padding-left: 20px;
+	padding-top: 75px;
+}
+#stitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-spoons.jpg);
+}
+
+.stextbox1 {
+    background-color: #541B25;
+    float: left;
+    height: 375px;
+    width: 325px;
+    margin-top: 35px;
+    margin-left: 35px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    margin-right: auto;
+}
+.stextbox1 h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    -webkit-box-shadow: inset 0 0px;
+    box-shadow: inset 0 0px;
+    border-radius: 10px;
+    color: #FCFBFC;
+    text-shadow: 0px 0;
+    font-style: italic;
+    letter-spacing: 3px;
+    width: 220px;
+    margin-right: auto;
+    float: left;
+    padding-left: 4px;
+    margin-left: 50px;
+    font-weight: normal;
+}
+.stextbox1 ul  {
+	position: relative;
+	float: left;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 33px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	padding-bottom: 15px;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-top: auto;
+	margin-left: 10px;
+	padding-right: 12px;
+	padding-top: 5px;
+}
+.simage-holder1 {
+    height: 375px;
+    width: 400px;
+    margin-top: 35px;
+    position: relative;
+    float: left;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    padding-right: 0px;
+    background-image: url(../assets/background_blt-snacks.jpg);
+    margin-bottom: 35px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.simage-holder1 img {
+    padding-top: 45px;
+    height: auto;
+    padding-left: 25px;
+}
+.scolored-box {
+	background-color: #E67564;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-top: auto;
+	margin-bottom: 35px;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+}
+.scolored-box img {
+	padding-left: 60px;
+	padding-top: 4px;
+}
+.stextbox2 {
+    background-color: #541B25;
+    float: left;
+    height: 375px;
+    width: 325px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    margin-bottom: 35px;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-left: auto;
+}
+
+.stextbox2 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #F4F4F4;
+	text-shadow: 0px 0 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 50px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+.stextbox2 ul  {
+	position: relative;
+	float: left;
+	margin-left: 10px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 35px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	padding-bottom: 10px;
+	margin-bottom: 5px;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-top: auto;
+	padding-top: 10px;
+	padding-right: 12px;
+}
+.stextbox2 p2 {
+	position: relative;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #E67564;
+	margin-left: 75px;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top: auto;
+}
+#pmtitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-martini.jpg);
+}
+
+.pmtextbox1 {
+	background-color: #541B25;
+	float: left;
+	height: 400px;
+	width: 450px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-right: auto;
+}
+.pmtextbox1 h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    -webkit-box-shadow: inset 0 0px;
+    box-shadow: inset 0 0px;
+    border-radius: 10px;
+    color: #FCFBFC;
+    text-shadow: 0px 0;
+    font-style: italic;
+    letter-spacing: 3px;
+    width: 220px;
+    margin-left: 110px;
+    margin-right: auto;
+    float: left;
+    padding-left: 4px;
+    font-weight: normal;
+}
+.pmtextbox1 ul  {
+	position: relative;
+	float: left;
+	margin-left: 100px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 33px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	margin-top: 20px;
+	list-style-image: url(../assets/bulletV6.png);
+	padding-bottom: auto;
+	margin-bottom: auto;
+}
+.pmtextbox1 p {
+	float: left;
+	position: relative;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 32px;
+	text-align: center;
+	border-width: thin;
+	padding-left: 40px;
+	margin-top: auto;
+	padding-top: 35px;
+	color: #7E7E7E;
+}
+.pmimage-holder1 {
+	height: 400px;
+	width: 600px;
+	margin-top: 35px;
+	margin-left: 45px;
+	position: relative;
+	float: left;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-right: auto;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	background-image: url(../assets/background_spoons.jpg);
+}
+.pmimage-holder1 img {
+	padding-top: 25px;
+	padding-left: 200px;
+	height: auto;
+}
+.pmcolored-box {
+	background-color: #E67564;
+	float: left;
+	height: 525px;
+	width: 385px;
+	margin-top: 35px;
+	margin-right: 41px;
+	margin-bottom: 45px;
+	margin-left: 45px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+}
+.pmcolored-box img {
+    padding-left: 45px;
+    padding-top: 60px;
+}
+.pmtextbox2 {
+	background-color: #541B25;
+	float: left;
+	height: 525px;
+	width: 675px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-bottom: 35px;
+	margin-right: auto;
+	margin-top: 35px;
+	margin-left: auto;
+}
+
+.pmtextbox2 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #F4F4F4;
+	text-shadow: 0px 0 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 217px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	margin-right: auto;
+}
+.pmtextbox2 ul  {
+	position: relative;
+	float: left;
+	margin-left: 21px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22px;
+	line-height: 35px;
+	list-style-position: outside;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	padding-right: 20px;
+	margin-bottom: 10px;
+	list-style-image: url(../assets/bulletV6.png);
+	margin-top: auto;
+}
+.pmtextbox2 p2 {
+	position: relative;
+	margin-right: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #E67564;
+	margin-left: 275px;
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+#gtitlebanner {
+	background-repeat: no-repeat;
+	float: left;
+	height: 50px;
+	width: 600px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 300px;
+	position: relative;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-top: 10px;
+	background-image: url(../assets/foodbanner-guac.jpg);
+}
+
+.gimage-holder1 {
+	height: 450px;
+	width: 600px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	float: left;
+	margin-right: auto;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	margin-bottom: auto;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	background-image: url(../assets/background_wings.jpg);
+}
+.gimage-holder1 img {
+	text-shadow: 0px 0px 0px;
+	margin-top: 20px;
+	margin-left: 87px;
+}
+.gtextbox1 {
+    background-color: #541B25;
+    float: left;
+    height: 450px;
+    width: 450px;
+    margin-top: 35px;
+    margin-left: 45px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.gtextbox1 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	-webkit-box-shadow: 0 0px;
+	box-shadow: 0 0px;
+	border-radius: 10px;
+	color: #FCFBFC;
+	text-shadow: 0px 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 110px;
+	margin-right: auto;
+	float: left;
+	padding-left: 4px;
+}
+.gtextbox1 ul  {
+    position: relative;
+    float: left;
+    margin-left: 42px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 35px;
+    list-style-position: outside;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #FFFFFF;
+    margin-top: auto;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 45px;
+    padding-right: 50px;
+    list-style-image: url(../assets/bulletV6.png);
+    margin-bottom: auto;
+}
+.gtextbox2 {
+	background-color: #541B25;
+	float: left;
+	height: 250px;
+	width: 800px;
+	margin-top: 35px;
+	margin-left: 50px;
+	position: relative;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 20px;
+	box-shadow: 0px 0px 20px;
+	margin-bottom: 35px;
+	margin-right: auto;
+}
+
+.gtextbox2 h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 0;
+	box-shadow: inset 0 0;
+	border-radius: 10px;
+	color: #F4F4F4;
+	text-shadow: 0px 0;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 3px;
+	width: 220px;
+	margin-left: 275px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	margin-right: auto;
+}
+.gtextbox2 ul  {
+    position: relative;
+    float: left;
+    margin-left: 145px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 35px;
+    list-style-position: outside;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #FFFFFF;
+    padding-right: 20px;
+    margin-bottom: 15px;
+    list-style-image: url(../assets/bulletV6.png);
+    margin-top: auto;
+    padding-bottom: 10px;
+}
+.gtextbox2 p2 {
+	position: relative;
+	margin-right: 20px;
+	margin-bottom: 35px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	-webkit-box-shadow: inset 0 0 5px 2px;
+	box-shadow: inset 0 0 5px 2px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #FFF9F9;
+	background-color: #EC9588;
+	margin-left: 335px;
+	margin-top: auto;
+	float: left;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.gcolored-box {
+    background-color: #E67564;
+    float: left;
+    height: 250px;
+    width: 225px;
+    margin-bottom: 35px;
+    margin-left: 50px;
+    position: relative;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
+    padding-right: 20px;
+    margin-top: 35px;
+}
+.gcolored-box img {
+    margin-left: 23px;
+    position: relative;
+    float: left;
+    margin-top: auto;
+}
+
+#footer {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 16px;
+	background-color: #541B25;
+	clear: both;
+	height: 50px;
+	width: 1200px;
+	position: relative;
+	margin-right: auto;
+}
